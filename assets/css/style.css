@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.clearfix{
+    clear: both;
+    float: none;
+}
+#capçalera {
+    color:black;
+    background-color: cornflowerblue;
+    width: auto;
+    height: 150px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+    float:left;
+    width: 300px;
+    background-image: url(../img/greenapple.jpg);
+}
+
+.cos {
+    background: olive url(../img/fins.jpg) no-repeat;
+
+}
+#menu ul{
+    list-style: none;
+}
+
+#menu ul li{
+    float:left
+}
+#taula1 table,tr,th,td{
+    border: 1px solid red;
+    border-collapse: collapse;
+    background: oldlace;
+}
